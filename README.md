@@ -1,3 +1,3 @@
 # hello_world
 
-my first repo
+hi i´m using github
